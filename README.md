@@ -1,4 +1,4 @@
-###A Simple Weather App made with React
+# A Simple Weather App made with React
 
 Installation
 -----------
