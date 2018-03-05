@@ -5,7 +5,7 @@ Installation
 
 ```
 git clone https://github.com/gurraunaqsingh/React-WeatherApp.git
-cd weather-app
+cd React-WeatherApp
 npm install
 npm start
 ```
