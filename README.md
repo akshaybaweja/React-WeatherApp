@@ -9,3 +9,5 @@ cd React-WeatherApp
 npm install
 npm start
 ```
+
+Nice Fraaaaaand
